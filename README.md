@@ -12,7 +12,6 @@ https://openweathermap.org/
 for background images change on evry refresh:
 https://source.unsplash.com/1600x900/?
 
-![Uploading chrome_RBocFWmZ72.jpg…]()
 
 ![chrome_RBocFWmZ72](https://user-images.githubusercontent.com/45186916/174444341-eb6a0a76-6bc8-4934-a72a-3b152f927f8a.jpg)
 
